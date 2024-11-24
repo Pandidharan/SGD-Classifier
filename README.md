@@ -66,13 +66,10 @@ print(cm)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/beeede28-eb80-4088-bb31-30d5294cb85d)
+![image](https://github.com/user-attachments/assets/5cdea7b1-694d-416a-b805-538caaf305a5)
 
+![image](https://github.com/user-attachments/assets/c3173948-919c-4d78-b660-e6a828c57830)
 
-![image](https://github.com/user-attachments/assets/a58826f6-d3ab-4e40-ad63-d581bf93527d)
-
-
-![image](https://github.com/user-attachments/assets/59a53f3f-366a-4259-a79d-3f672048f48f)
 
 
 ## Result:
